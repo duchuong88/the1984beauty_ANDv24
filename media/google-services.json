@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "208561645682",
+    "firebase_url": "https://the-1984-beauty-default-rtdb.firebaseio.com",
+    "project_id": "the-1984-beauty",
+    "storage_bucket": "the-1984-beauty.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208561645682:android:e1403427a39a72198bfaeb",
+        "android_client_info": {
+          "package_name": "vn.the1984beauty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxjMEXrDNpxbz1Zy_dqckdD0ugatf3SxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
